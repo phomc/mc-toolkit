@@ -1,0 +1,8 @@
+/*/node_modules
+/*/dist
+/*/public_html/*.js
+
+# Assets
+# We exclude the assets directory to prevent some copyright issues
+# Build your own assets by using tools that we're going to provide
+/*/public_html/assets

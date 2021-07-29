@@ -1,0 +1,20 @@
+{
+  "name": "@mangoplex/mc-ui",
+  "version": "0.0.1",
+  "description": "basically block game user interface",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "ts-loader": "^9.2.4",
+    "typescript": "^4.3.5",
+    "webpack": "^5.47.0",
+    "webpack-cli": "^4.7.2"
+  },
+  "dependencies": {
+    "@mangoplex/mc-ui-renderer": "file:../mc-ui-renderer"
+  }
+}
